@@ -1,0 +1,20 @@
+type: location
+id: ice-gorge
+name: 얼음 협곡 레이드
+aliases:
+  - 얼음 협곡
+  - 협곡
+description:
+  - 서버 오픈 이래 아무도 클리어하지 못한 최북단 대협곡 레이드 지역이다.
+  - 협곡 최심부에는 서리 거인 우두머리가 잠들어 있고, 히든 시나리오의 마지막 조건이 얼음 밑에 봉인되어 있다.
+characterIds: []
+tags:
+  - 레이드
+  - 최종시험
+  - 미답파
+time: 새벽
+weather: 눈보라
+senses:
+  - 살을 긋는 바람과 빙벽이 갈라지는 굉음
+  - 숨을 들이쉴 때마다 코끝에 맺히는 얼음 냄새
+locationKind: place

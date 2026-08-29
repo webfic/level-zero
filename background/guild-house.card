@@ -1,0 +1,21 @@
+type: location
+id: guild-house
+name: 황혼 길드 하우스
+aliases:
+  - 길드 하우스
+  - 황혼의 집
+description:
+  - 룬가르드 성벽 쪽 언덕에 선 길드 '황혼'의 3층 석조 저택으로, 지금은 채린 혼자 지킨다.
+  - 전성기의 레이드 전리품과 단체 초상화가 먼지 한 톨 없이 관리되어 있다.
+characterIds:
+  - chaerin
+tags:
+  - 길드
+  - 거점
+  - 재회
+time: 밤
+weather: 실내
+senses:
+  - 빈 회의 탁자 위 램프 기름 타는 냄새
+  - 벽난로 장작이 무너지는 소리와 오래된 카펫의 감촉
+locationKind: place

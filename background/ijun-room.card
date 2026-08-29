@@ -1,0 +1,21 @@
+type: location
+id: ijun-room
+name: 이준의 원룸
+aliases:
+  - 원룸
+  - 이준의 방
+description:
+  - 서울 외곽 반지하 원룸으로, 살림의 절반이 중고 풀다이브 캡슐이다(현실).
+  - 벽에는 8년 전 황혼 길드 시절의 스크린샷 한 장이 유일한 장식으로 붙어 있다.
+characterIds:
+  - ijun
+tags:
+  - 현실
+  - 생활
+  - 접속지점
+time: 심야
+weather: 실내
+senses:
+  - 캡슐 냉각팬 소리와 보일러 배관이 식는 소리
+  - 파스 냄새와 눅눅한 벽지의 곰팡내
+locationKind: place

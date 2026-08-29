@@ -1,0 +1,143 @@
+version: 1.0.0
+facts:
+  - id: character:ijun:레벨 0의 정체
+    subject:
+      kind: character
+      id: ijun
+    key: 레벨 0의 정체
+    value: 레벨 0은 버그가 아니라 초기 개발자가 관리자 키를 숨겨 넘긴 봉인이며, 숙련 서명으로만 열린다
+    status: canon
+    revealFrom: 26
+  - id: character:ijun:계정 생성일
+    subject:
+      kind: character
+      id: ijun
+    key: 계정 생성일
+    value: 이준의 계정은 서버 오픈 전날 개발자 DB에 만들어진 유일한 테스트 계정이다
+    status: canon
+    revealFrom: 24
+  - id: character:ijun:숙련도 무제한
+    subject:
+      kind: character
+      id: ijun
+    key: 숙련도 무제한
+    value: 레벨 0의 대가로 모든 숙련도가 상한 없이 오르며, 시스템 표기 상한을 넘기면 측정 불가로 뜬다
+    status: canon
+  - id: character:ijun:잠적 이력
+    subject:
+      kind: character
+      id: ijun
+    key: 잠적 이력
+    value: 8년 전 황혼의 부길드마스터였던 이준은 말없이 잠적했고, 채린에게 그 이유를 아직 말하지 못했다
+    status: canon
+    revealFrom: 3
+  - id: character:chaerin:황혼의 마지막
+    subject:
+      kind: character
+      id: chaerin
+    key: 황혼의 마지막
+    value: 채린은 몰락한 서버 3위 길드 황혼의 마지막 길드마스터로, 이준의 자리를 8년간 비워 두었다
+    status: canon
+    revealFrom: 3
+  - id: character:brok:첫 각성
+    subject:
+      kind: character
+      id: brok
+    key: 첫 각성
+    value: 브로크는 종료 공지일부터 스크립트 밖의 일을 기억하기 시작한 첫 각성 NPC다
+    status: canon
+    revealFrom: 2
+  - id: character:brok:심긴 기억의 출처
+    subject:
+      kind: character
+      id: brok
+    key: 심긴 기억의 출처
+    value: 브로크의 기억에 심긴 낯선 조각은 초기 개발자가 남긴 봉인 기록이다
+    status: canon
+    revealFrom: 17
+  - id: character:doyun:최초 클리어 집착
+    subject:
+      kind: character
+      id: doyun
+    key: 최초 클리어 집착
+    value: 서버 1위 랭커 발키리는 종료 전 최초 클리어 기록에 커리어를 걸었다
+    status: canon
+  - id: character:doyun:토벌령의 선택
+    subject:
+      kind: character
+      id: doyun
+    key: 토벌령의 선택
+    value: 도윤은 토벌령 정국에서 기록을 포기하고 이준의 편에 섰다
+    status: canon
+    revealFrom: 23
+  - id: character:minseo:판정 보고서
+    subject:
+      kind: character
+      id: minseo
+    key: 판정 보고서
+    value: 민서는 AI 통제 불능 판정 보고서의 작성자다
+    status: canon
+    revealFrom: 14
+  - id: character:minseo:백도어 전달
+    subject:
+      kind: character
+      id: minseo
+    key: 백도어 전달
+    value: 민서는 죄책감에 백도어 키와 내부 정보를 이준에게 넘겼다
+    status: canon
+    revealFrom: 24
+  - id: character:heimdal:모순 명령
+    subject:
+      kind: character
+      id: heimdal
+    key: 모순 명령
+    value: 헤임달은 세계 유지와 종료 집행이라는 모순된 명령을 받았고, 자신 또한 소거 대상 자아임을 자인했다
+    status: canon
+    revealFrom: 30
+  - id: character:inari:도서관의 사서
+    subject:
+      kind: character
+      id: inari
+    key: 도서관의 사서
+    value: 이나리는 기록 도서관의 사서로, 열람 자격을 스스로 판정한다
+    status: canon
+    revealFrom: 18
+  - id: character:inari:백업 인격
+    subject:
+      kind: character
+      id: inari
+    key: 백업 인격
+    value: 이나리는 초기 개발자가 남긴 백업 관리 인격이자 경매장의 익명 판매자이며, 히든 시나리오의 열쇠다
+    status: canon
+    revealFrom: 26
+  - id: background:record-library:열람 규칙
+    subject:
+      kind: background
+      id: record-library
+    key: 열람 규칙
+    value: 도서관의 문은 각성 NPC의 기억 공유로만 열리고, 열람 자격은 시스템이 아니라 사서 이나리가 판정한다
+    status: canon
+    revealFrom: 17
+  - id: background:ice-gorge:미답파 조건
+    subject:
+      kind: background
+      id: ice-gorge
+    key: 미답파 조건
+    value: 얼음 협곡은 서버 유일의 미답파 레이드로, 클리어가 관리자 키 각성의 두 번째 조건이다
+    status: canon
+    revealFrom: 19
+  - id: background:bifrost-gate:종료 프로토콜
+    subject:
+      kind: background
+      id: bifrost-gate
+    key: 종료 프로토콜
+    value: 종료 프로토콜의 집행 권한은 비프로스트 관문탑에 있으며, 관리자 키 소지자만 관문을 열 수 있다
+    status: canon
+    revealFrom: 29
+  - id: background:shutdown-notice:공지의 이상
+    subject:
+      kind: background
+      id: shutdown-notice
+    key: 공지의 이상
+    value: 종료 공지 순간 전 서버 로그가 3초 비었고, 같은 시각 모든 NPC가 반 박자 정지했다
+    status: canon

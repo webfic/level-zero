@@ -1,0 +1,20 @@
+type: location
+id: worldtree-dungeon
+name: 세계수 던전
+aliases:
+  - 세계수
+  - 뿌리 던전
+description:
+  - 세계수 위그드라실의 뿌리 밑으로 파고드는 나선형 지하 던전이다.
+  - 층을 내려갈수록 뿌리에 세계의 오래된 기록 조각이 호박(琥珀)처럼 박혀 있다.
+characterIds: []
+tags:
+  - 던전
+  - 기록조각
+  - 공략
+time: 밤
+weather: 지하
+senses:
+  - 수액 냄새와 뿌리가 삐걱이며 자라는 소리
+  - 발밑에서 올라오는 차고 습한 흙기운
+locationKind: place

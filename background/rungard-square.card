@@ -1,0 +1,20 @@
+type: location
+id: rungard-square
+name: 룬가르드 중앙 광장
+aliases:
+  - 광장
+  - 중앙 광장
+description:
+  - 아스가르드 온라인의 시작 도시 룬가르드 한복판, 세계수 조형 분수를 둘러싼 석조 광장이다.
+  - 시스템 공지가 광장 하늘에 룬 문자로 떠오르며, 유저와 NPC가 가장 많이 뒤섞이는 곳이다.
+characterIds: []
+tags:
+  - 도시
+  - 공지
+  - 군중
+time: 상시
+weather: 맑음
+senses:
+  - 갓 구운 빵 노점과 말발굽이 섞인 소음
+  - 분수의 물비린내와 석판에 반사되는 햇빛
+locationKind: place

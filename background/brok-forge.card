@@ -1,0 +1,21 @@
+type: location
+id: brok-forge
+name: 브로크의 대장간
+aliases:
+  - 대장간
+  - 브로크네
+description:
+  - 룬가르드 뒷골목 끝, 드워프 브로크가 혼자 꾸리는 낡은 대장간이다.
+  - 벽에는 이준이 8년간 맡긴 실패작 검들이 연대순으로 걸려 있다.
+characterIds:
+  - brok
+tags:
+  - 대장간
+  - 단골
+  - 각성
+time: 저녁
+weather: 실내
+senses:
+  - 화로의 열기와 쇠 두드리는 규칙적인 망치 소리
+  - 숯내와 기름 먹인 가죽 냄새
+locationKind: place

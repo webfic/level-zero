@@ -1,0 +1,21 @@
+type: location
+id: bifrost-gate
+name: 비프로스트 관문
+aliases:
+  - 비프로스트
+  - 무지개 다리
+description:
+  - 세계의 끝에서 관리 영역 아스가르드로 이어지는 무지개 빛 대교이자 최종 관문이다.
+  - 다리 끝 관문탑에서 헤임달이 세계 전체의 로그를 내려다보며, 종료 프로토콜의 집행 권한이 이곳에 있다.
+characterIds:
+  - heimdal
+tags:
+  - 결전
+  - 관문
+  - 종료프로토콜
+time: 황혼
+weather: 오로라
+senses:
+  - 발밑에서 유리처럼 울리는 빛의 다리
+  - 세계 가장자리에서 불어오는 무음의 바람
+locationKind: place

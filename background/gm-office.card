@@ -1,0 +1,21 @@
+type: location
+id: gm-office
+name: 운영사 GM 사무실
+aliases:
+  - GM 사무실
+  - 운영사 사무실
+description:
+  - 판교 사옥 12층, 아스가르드 온라인 운영팀의 파티션 사무실이다(현실).
+  - 벽면 모니터에 서버 지표가 흐르고, 종료 공지 이후 절반의 자리가 비어 있다.
+characterIds:
+  - minseo
+tags:
+  - 현실
+  - 운영사
+  - 내부자
+time: 야근 시간
+weather: 실내
+senses:
+  - 서버실 공조기의 낮은 소음과 식은 커피 냄새
+  - 모니터 불빛만 남은 사무실의 푸른 어둠
+locationKind: place

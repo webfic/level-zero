@@ -1,0 +1,20 @@
+type: location
+id: auction-house
+name: 룬가르드 경매장
+aliases:
+  - 경매장
+  - 경매홀
+description:
+  - 룬가르드 상업지구의 반원형 경매홀로, 서버의 모든 희귀품이 마지막으로 거쳐 가는 곳이다.
+  - 종료 공지 이후 매물이 쏟아져, 세계의 유산이 헐값에 낙찰되는 장이 되었다.
+characterIds: []
+tags:
+  - 상업
+  - 거래
+  - 단서
+time: 오후
+weather: 실내
+senses:
+  - 경매인의 낭독과 호가 종이 울리는 소리
+  - 오래된 양피지와 향유 냄새
+locationKind: place

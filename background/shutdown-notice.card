@@ -1,0 +1,18 @@
+type: temporal
+id: shutdown-notice
+name: 종료 공지의 날
+aliases:
+  - D-30
+  - 공지의 날
+description:
+  - 아스가르드 온라인 서비스 종료가 공지된 날로, 이야기의 시계가 D-30에서 0을 향해 흐르기 시작한다.
+  - 이날 이후 세계 곳곳의 NPC들이 스크립트 밖의 기억을 갖기 시작했다.
+characterIds: []
+tags:
+  - 기점
+  - 카운트다운
+time: D-30
+weather: 맑음
+senses:
+  - 하늘을 가로지른 룬 문자 공지의 잔광
+  - 광장에 번지던 낯선 정적

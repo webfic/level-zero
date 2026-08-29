@@ -1,0 +1,20 @@
+type: location
+id: dev-room
+name: 숨겨진 개발자의 방
+aliases:
+  - 개발자의 방
+  - 히든룸
+description:
+  - 좌표가 존재하지 않는 격자 위에 초기 개발자가 남긴 디버그 룸으로, 맵 데이터 바깥에 떠 있다.
+  - 미완성 텍스처의 회색 방 안에 첫 빌드의 세계 모형과 관리자 콘솔이 남아 있다.
+characterIds: []
+tags:
+  - 히든
+  - 개발자
+  - 진실
+time: 시간 없음
+weather: 없음
+senses:
+  - 소리가 울리지 않는 무향실 같은 정적
+  - 렌더링되다 만 바닥의 서늘하고 매끈한 감촉
+locationKind: place
